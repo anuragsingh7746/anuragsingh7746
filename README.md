@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineering enthusiast from India,
+I am a software development enthusiast from India,
 
 - 🔭 I'm currently pursuing a bachelor degree course in Information Technology from IIIT-Allahabad.
 - 🌱 I'm currently learning C++ , and trying to build my own physics engine.
