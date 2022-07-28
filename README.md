@@ -3,7 +3,7 @@
 I am a software development enthusiast from India,
 
 - 🔭 I'm currently pursuing a bachelor degree course in Information Technology from IIIT-Allahabad.
-- 🌱 I'm currently learning C++ , and trying to build my own physics engine.
+- 🌱 I'm currently learning C++ and trying to build my own physics engine.
 - 💬 You can find all my config files above.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-082a44246/)
 
